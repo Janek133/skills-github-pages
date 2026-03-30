@@ -2,6 +2,6 @@
 title: "pierwszytytułbloga"
 date: 2026-03-30
 ---
-#janek
+# janek
 ## student
--- moj bloggg
+* moj bloggg
